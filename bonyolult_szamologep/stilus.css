@@ -1,0 +1,11 @@
+input[type= button] {
+    width: 25px; 
+    margin: 5px;
+    color: darkblue;
+    background-color: coral;
+
+}
+legend{
+    text-align: center;
+    
+}
